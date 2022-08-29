@@ -1,5 +1,5 @@
 name = "flatten-do"
 account_id = "b6641681fe423910342b9ffa1364c76d"
-route = { pattern = "flatten.do/*", zone_id = "8461d432aacea9269c8745f9ef6781cb" }
+route = { pattern = "*flatten.do/*", zone_id = "8461d432aacea9269c8745f9ef6781cb" }
 main = "worker.js"
 compatibility_date = "2022-08-23"
